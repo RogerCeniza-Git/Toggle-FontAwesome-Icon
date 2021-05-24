@@ -1,5 +1,7 @@
 # FontawesomeDemo
 
+This is a very simple toggling of fontawesome icon using fontawesome icon library with angular 12.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
